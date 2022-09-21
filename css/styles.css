@@ -85,6 +85,11 @@ main {
         color: #666600;
         text-decoration: none;
  }
+
+
+ .map{
+      border: 8px solid #000;
+}
 footer p {
     font-size: 0.75em;
     text-align: center;
