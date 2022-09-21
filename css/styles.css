@@ -66,6 +66,15 @@ main {
  #exercises dd {
           padding: 0.5% 1% 2% 0;
  }
+
+ #contact {
+    text-align: center;
+ }
+
+ #contact a {
+        color: #666600;
+        text-decoration: none;
+ }
 footer p {
     font-size: 0.75em;
     text-align: center;
