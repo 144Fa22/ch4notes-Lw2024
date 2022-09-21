@@ -1,9 +1,17 @@
+/*
+Author: Leo Wills
+Date:9/21/2022
+File Name: Styles.css
+*/
+
+/*CSS Reset*/
 body, header, nav, main, footer, h1, div, img {
       margin: 0;
       padding: 0;
       border: 0;
 }
 
+/*Style rules for body and images*/
 body{
     background-color: #000;
 }
@@ -13,11 +21,13 @@ img {
       display: block;
 }
 
+/*Style rule for header*/
 header {
         width:25%;
         float: left;
 }
 
+/*Style rules for navigation area*/
 nav {
       width: 70%;
       float: right;
@@ -45,6 +55,7 @@ nav li a {
     text-decoration: none;
 }
 
+/*Style rules for main content*/
 main {
       clear: left;
       background-color: #fff;
@@ -98,6 +109,8 @@ main {
  .map{
       border: 8px solid #000;
 }
+
+/*Style rules for footer content*/
 footer p {
     font-size: 0.75em;
     text-align: center;
